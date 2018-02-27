@@ -1,2 +1,2 @@
 # Real-time-ECG-monitoring-system
--
+A wearable system for automatic recording of the main parameters of the human body: body temperature, respiration rate, pulse, blood oxygen content, electrocardiogram (ECG), and patient position. The data received from the wearable sensors is taken by an interface circuit for processing. The disease is classified by using machine learning algorithms and the results are displayed in a graphical interface. 
